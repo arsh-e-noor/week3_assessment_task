@@ -1,8 +1,4 @@
 # 🚀 MERN Stack Deployment using Kubernetes (Minikube + AWS EKS + Helm)
-
-## 👨‍💻 Author
-Arshenoor
-
 ---
 
 ## 📌 Project Overview
@@ -30,10 +26,6 @@ The application consists of three main components:
 ## 📁 Project Structure
 # 🚀 MERN Stack Deployment using Kubernetes (Minikube + AWS EKS + Helm)
 
-## 👨‍💻 Author
-Arshenoor
-
----
 
 ## 📌 Project Overview
 
@@ -59,9 +51,6 @@ The application consists of three main components:
 
 ## 📁 Project Structure
 # 🚀 MERN Stack Deployment using Kubernetes (Minikube + AWS EKS + Helm)
-
-## 👨‍💻 Author
-Arshenoor
 
 ---
 
@@ -189,3 +178,6 @@ This project demonstrates a complete CI/CD-style deployment workflow:
 ✔ Helm chart created
 ✔ AWS EKS cluster configured
 ✔ Application running successfully
+
+## 👨‍💻 Author
+Arshenoor
